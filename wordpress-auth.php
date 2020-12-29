@@ -3,7 +3,7 @@
 Plugin Name: Wordpress Auth
 Plugin URI: https://www.7learn.com/
 Description: wordpress plugin to manage auth 
-Author: Kaivan Alimohammadi
+Author: MaNi
 Author URI: https://www.7learn.com/
 Text Domain: wordpress-auth
 Domain Path: /languages/
